@@ -95,7 +95,7 @@ menu:
 </script>
 
 2.在需要加密的博文(title下面)前面加上密码：
-password = 123456
+password: 123456 (好像只能数字？)
 ```
 
 ### 第七步：hexo图片显示问题
@@ -126,3 +126,9 @@ password = 123456
 在需要截断的地方添加：
 
 `<!--more-->`
+
+### 第十步：修改博客字体
+
+参考文章：https://blog.csdn.net/sailist/article/details/104114578
+
+测试过文章中的方法，成功修改next主题的字体及字号！
